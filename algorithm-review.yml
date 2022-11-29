@@ -1,7 +1,7 @@
 token:
   access-expired-time: 3600000
   refresh-expired-time: 604800000
-  secret: user_token
+  secret: ENC(YGBUhpdC0V2o/Nw6j158ro5CytHA7lBJ/gluwuThNLwh6JJ/KBo/xogM0ONxwoM3)
   refresh-token-name: refresh-token
   access-token-name: access-token
 
