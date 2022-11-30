@@ -4,11 +4,3 @@ token:
   secret: ENC(b2hrc2pvaGtzam9oa3Nqb2hrc2pvaGtzanVzZXJ0b2tlbm9oa3Nqb2hrc2pvaGtzam9oa3Nqb2hrc2p1c2VydG9rZW4=)
   refresh-token-name: refresh-token
   access-token-name: access-token
-
-gateway:
-  ip: 192.168.0.8
-
-member_service:
-  url: http://MEMBER-SERVICE/member-service/api/member
-  exception:
-    find_member: Cannot find Member
